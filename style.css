@@ -91,35 +91,10 @@ main h2 {
     text-indent: 8px;
 }
 
-.introducao {
-    max-width: 650px;
-    display: block;
-    margin: auto;
-}
-#projovem {
-    list-style-position: inside;
-    padding: 10px;
-    font-size: 1.6em;
-}
-
-.primeiraimg {
-    max-width: 400px;
-    display: block;
-    margin: auto;
-    padding-top: 15px;
-}
-
-.charge {
+#introducao {
     max-width: 350px;
     display: block;
     margin: auto;
-}
-
-#chargefinal {
-    max-width: 350px;
-    display: block;
-    margin: auto;
-    padding: 15px; 
 }
 
 main strong {
@@ -155,7 +130,7 @@ ul {
 }
 
 .nr {
-    max-width: 550px;
+    max-width: 350px;
     display: block;
     margin: auto;
 }
